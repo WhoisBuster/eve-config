@@ -1,6 +1,8 @@
 # eve-config
 
-[![Build Status](https://travis-ci.org/WhoisBuster/eve-config.svg?branch=master)](https://travis-ci.org/WhoisBuster/eve-config)
+[![Build Status](https://travis-ci.org/WhoisBuster/eve-config.svg?branch=master)](https://travis-ci.org/WhoisBuster/eve-config)  
+[![Code Climate](https://codeclimate.com/github/WhoisBuster/eve-config/badges/gpa.svg)](https://codeclimate.com/github/WhoisBuster/eve-config)  
+[![Test Coverage](https://codeclimate.com/github/WhoisBuster/eve-config/badges/coverage.svg)](https://codeclimate.com/github/WhoisBuster/eve-config/coverage)
 
 `eve-config` is a Python package for the [Eve](https://github.com/nicolaiarocci/eve) framework that helps you abolish the `settings.py` as much as possible, and provides simpler loading of configuration variables from the environment.
 

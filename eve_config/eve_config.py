@@ -1,9 +1,8 @@
-from eve_config.exceptions import MissingConfigurationValue, InvalidSettingKeyException
-
 from dotenv import load_dotenv, find_dotenv
 
-import os
-import re
+from .exceptions import MissingConfigurationValue, InvalidSettingKeyException
+
+import os, re
 
 
 class EveConfig(object):
